@@ -1,6 +1,4 @@
-.hide{
-    display: none;
-}
+
 @media screen and (max-width:576px) {
     main{
         margin: 40px 5%;
